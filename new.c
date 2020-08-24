@@ -1,4 +1,5 @@
 #include <stdio.h>
-void main(){
-printf(Hello guys. Its my new Test File);
+void main()
+{
+	printf("Hey guys.\n This is file version 2");
 }
